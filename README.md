@@ -12,5 +12,5 @@ El repositorio cuenta con:
 - Los **mejores modelos entrenados**, de los cuales pueden consultar su fiabilidad en el proyecto. Debido a su peso, solo podrán ser accedidos a través de [este enlace](https://drive.google.com/drive/folders/1AD76gjr83MCqMVX55NFPKENn_asZ0RZR?usp=sharing) En caso de querer cargarlos, puede consultar como hacerlo en la aplicación de ejemplo.
 - **Aplicación de ejemplo** (AplicacionRedes), un notebook para poder ejecutar la clasificación de imágenes  individuales, ya sean del dataset o del usuario. Esta usar los modelos comentados anteriormente.
 
-Tenga en cuenta que para el uso de los notebooks será necesaria la instalación de las librerias importadas al principio de cada notebook así como actualizar las direcciones a las que accede.
+Tenga en cuenta que para el uso de los notebooks será necesaria la instalación de las librerias importadas al principio de cada notebook así como actualizar las direcciones a las que accede. **Es necesario tener instalado cuda.**
 
