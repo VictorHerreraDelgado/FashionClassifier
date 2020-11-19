@@ -4,6 +4,16 @@ Este repositorio es un complemento del Trabajo de fin de grado **"Desarrollo de 
 
 El trabajo consistió en la aplicación de distintas técnicas de las redes neuronales convolucionales sobre redes VGG para la clasificación de prendas de vestir, que acabó siendo ampliado a elementos encontrados en tiendas de moda con la elección del dataset ["Fashion product images dataset" creado por Param Aggarwal](https://github.com/user/repo/blob/branch/other_file.md).
 
+## Objetivo del contenido de este repositorio
+
+La creación del código incluido en este repositorio se ha realizado por dos motivos:
+
+- **Por seguridad**, pues si bien se trata de un proyecto de investigación, se quería mostrar que había más trabajo detrás.
+
+-**Para interés de compañeros** que estén **empezando en el uso de redes neuronales** y a los cuales les pueda servir de ejemplo el código realizado para desarrollar sus propios proyectos.
+
+Repito que el código encontrado en los documentos **no está directamente relacionado al trabajo hecho por el estudiante, pues se trató de un trabajo de investigación** en el cual se realizaron más pruebas, pero se creyó que una versión limpia y más sencilla del código utilizado con referencia a la misma temática podía ser de uso para la comunidad o para su inclusión en la biblioteca. 
+
 ## ¿Que encontrará en este repositorio?
 El repositorio cuenta con:
 - El documento **Desarrollo de una red neuronal profunda para la clasificación y caracterización de prendas de vestir** para su lectura.
